@@ -1,4 +1,4 @@
 generic-entity-repository
 =========================
 
-generic-entity-repository to CRUD operations on BD b using entity framework.
+generic-entity-repository to CRUD operations on DB b using entity framework.
