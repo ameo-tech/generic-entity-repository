@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generic-entity-repository", "generic-entity-repository\generic-entity-repository.csproj", "{8BBFFB86-3125-4347-9B9D-019E5F3BFD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generic-entity-usage", "generic-entity-usage\generic-entity-usage.csproj", "{0CD97A6E-BD2B-4148-A60D-79E9F0AE7BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBFFB86-3125-4347-9B9D-019E5F3BFD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBFFB86-3125-4347-9B9D-019E5F3BFD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBFFB86-3125-4347-9B9D-019E5F3BFD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBFFB86-3125-4347-9B9D-019E5F3BFD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD97A6E-BD2B-4148-A60D-79E9F0AE7BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD97A6E-BD2B-4148-A60D-79E9F0AE7BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD97A6E-BD2B-4148-A60D-79E9F0AE7BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD97A6E-BD2B-4148-A60D-79E9F0AE7BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

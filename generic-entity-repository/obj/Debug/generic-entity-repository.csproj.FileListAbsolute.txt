@@ -1,0 +1,10 @@
+D:\code\generic-entity-repository\generic-entity-repository\bin\Debug\generic-entity-repository.dll.config
+D:\code\generic-entity-repository\generic-entity-repository\bin\Debug\generic-entity-repository.dll
+D:\code\generic-entity-repository\generic-entity-repository\bin\Debug\generic-entity-repository.pdb
+D:\code\generic-entity-repository\generic-entity-repository\bin\Debug\EntityFramework.dll
+D:\code\generic-entity-repository\generic-entity-repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\generic-entity-repository\generic-entity-repository\bin\Debug\EntityFramework.xml
+D:\code\generic-entity-repository\generic-entity-repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\generic-entity-repository\generic-entity-repository\obj\Debug\generic-entity-repository.csprojResolveAssemblyReference.cache
+D:\code\generic-entity-repository\generic-entity-repository\obj\Debug\generic-entity-repository.dll
+D:\code\generic-entity-repository\generic-entity-repository\obj\Debug\generic-entity-repository.pdb

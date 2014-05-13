@@ -1,0 +1,13 @@
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\generic-entity-usage.dll
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\generic-entity-usage.pdb
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\generic-entity-repository.dll
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\StructureMap.dll
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\StructureMap.Net4.dll
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\EntityFramework.dll
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\generic-entity-repository.pdb
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\StructureMap.pdb
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\StructureMap.Net4.pdb
+D:\code\generic-entity-repository\generic-entity-usage\bin\Debug\EntityFramework.xml
+D:\code\generic-entity-repository\generic-entity-usage\obj\Debug\generic-entity-usage.csprojResolveAssemblyReference.cache
+D:\code\generic-entity-repository\generic-entity-usage\obj\Debug\generic-entity-usage.dll
+D:\code\generic-entity-repository\generic-entity-usage\obj\Debug\generic-entity-usage.pdb
